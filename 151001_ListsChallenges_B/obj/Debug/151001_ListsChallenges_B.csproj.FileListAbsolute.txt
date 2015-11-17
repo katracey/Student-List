@@ -1,0 +1,14 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151001_ListsChallenges_B\151001_ListsChallenges_B\bin\Debug\151001_ListsChallenges_B.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151001_ListsChallenges_B\151001_ListsChallenges_B\bin\Debug\151001_ListsChallenges_B.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151001_ListsChallenges_B\151001_ListsChallenges_B\bin\Debug\151001_ListsChallenges_B.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151001_ListsChallenges_B\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151001_ListsChallenges_B\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151001_ListsChallenges_Final\151001_ListsChallenges_B\bin\Debug\151001_ListsChallenges_B.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151001_ListsChallenges_Final\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151001_ListsChallenges_Final\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151001_ListsChallenge2_Final\151001_ListsChallenges_B\bin\Debug\151001_ListsChallenges_B.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151001_ListsChallenge2_Final\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151001_ListsChallenge2_Final\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151001_ListsChallenge2_Final\151001_ListsChallenges_B\bin\Debug\151001_ListsChallenges_B.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151001_ListsChallenge2_Final\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151001_ListsChallenge2_Final\151001_ListsChallenges_B\obj\Debug\151001_ListsChallenges_B.pdb
